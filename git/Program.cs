@@ -15,7 +15,7 @@ namespace git
                 System.Threading.Thread.Sleep(500);
                 Console.SetCursorPosition(10, 2);
                 Console.WriteLine(" _/ _/");
-                Console.SetCursorPosition(10, 7);
+                Console.SetCursorPosition(10, 3);
                 Console.WriteLine("(0__-)");
                 System.Threading.Thread.Sleep(200);
             }
